@@ -1,0 +1,49 @@
+#contact iframe{ 
+    width:100%;
+}
+#video{
+    width:100%;
+}
+
+.img-responsive{
+    height:450px;
+    width:300px;
+}
+.campus_mainDiv p {
+    margin-left: 20px;
+}
+
+.award_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.award_head i {
+    float: right;
+}
+.award_text span {
+    color: #ff7700;
+}
+
+.faculty_li {
+    margin-top: 13px;
+}
+
+.faculty_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.faculty_li img {
+    border-radius: 25px;
+    width:250px;
+    height:200px;
+}
+
+.faculty_li p {
+    margin-top: 10px;
+}
